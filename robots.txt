@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vodkabet.partnersplayamo.net/sitemap.xml
